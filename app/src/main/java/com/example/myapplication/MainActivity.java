@@ -14,4 +14,6 @@ public class MainActivity extends AppCompatActivity {
     //test 1
 
     //fix comment
+
+    //fix comment 2
 }
