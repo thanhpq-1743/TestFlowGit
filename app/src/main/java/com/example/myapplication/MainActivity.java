@@ -11,11 +11,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    //test 1
 
-    //fix comment
+    // thanh test
 
-    //fix comment 2
+    //task 10
 
     //test 2
 
@@ -28,5 +27,4 @@ public class MainActivity extends AppCompatActivity {
     //fix cmt 2
 
     //abc
-
 }
